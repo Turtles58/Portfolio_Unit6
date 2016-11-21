@@ -4,6 +4,9 @@
       background-size: cover;
       color: white;
     }
+    #profile {
+      width: 20%;
+    }
     .nav {
       color: white;
     }
