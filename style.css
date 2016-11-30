@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background-color: #3a5f6d;
       background-size: cover;
       color: white;
     }
@@ -15,8 +15,8 @@
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      border: 7px solid #f44253;
+      border-radius: 360px;
     }
     ul {
       padding: 10px;
@@ -39,5 +39,10 @@
       li {
         padding: 5px;
         display: block;
+      }
+      #about{
+        font-family: 'Roboto', sans-serif;
+        margin-right: 50%;
+        font-size: 1000px;
       }
     }

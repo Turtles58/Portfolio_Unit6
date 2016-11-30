@@ -8,5 +8,4 @@ $(document).ready(function(){
         $("#beautiful").html("I sure am beautiful, aren't I?");
     });
     
-    
 });
